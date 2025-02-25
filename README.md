@@ -1,8 +1,15 @@
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
-</p>
+<h2 align="center">
+  <img alt="Hello" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/Hi.gif" width="29px"> 
+  Hello,World!
+  <img alt="Earth" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/earth.gif" width="24px"/>
+</h2>
 
-<h3> Hey there👋! I'm Prathmesh Jadhav.</h2>
-<h2> Currently working as a Software Engineer </h2>
+<h2 align="center">
+    I'm
+    <img alt="popup_cat" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/giphy.webp" width="50">
+    Akshat Tamrakar
+    <img alt="dev_cat" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/dev_cat.gif" width="50"> 
+</h2>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
