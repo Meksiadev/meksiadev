@@ -1,13 +1,8 @@
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+</p>
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Nitin</h1></summary>
-  </ul>
-</div>
+<h3> Hey there👋! I'm Prathmesh Jadhav.</h2>
+<h2> Currently working as a Software Engineer </h2>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
