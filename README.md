@@ -13,8 +13,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently Working with RebornStumble
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🔭 &nbsp; I’m currently Working with StumbleRush
 
 
 <h3>🛠 Tech Stack</h3>
@@ -27,7 +26,7 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-&nbsp; <a href="https://discord.gg/rebornsg" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/discord.png" width="50" /></a>
+&nbsp; <a href="[https://discord.gg/rebornsg](https://discord.gg/hyRV69SSBY)" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/discord.png" width="50" /></a>
 &nbsp; <a href="meksiadev@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
@@ -35,4 +34,4 @@
 ----
 Credit: [Meksia](https://github.com/Meksiadev)
 
-Last Edited on: 26/02/2025
+Last Edited on: 11/04/2025
