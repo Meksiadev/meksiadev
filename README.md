@@ -1,1 +1,1 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/?idleMessage=WWW.MEKSIACODE.XYZ%20-%20BEST%20PLUGINS&ignoreAppId=1290643725239849007)](https://discord.com/users/)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1290643725239849007?idleMessage=WWW.MEKSIACODE.XYZ%20-%20BEST%20PLUGINS&showDisplayName=true&hideDecoration=true)](https://discord.com/users/1290643725239849007)
